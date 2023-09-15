@@ -9,6 +9,7 @@ Currently, I am pursuing Web Development course at Humber College. I am new to C
 
 <!-- ![Photo of Priyam](/photo-priyam.png "Photo of Priyam") -->
 <img src="https://github.com/codeyumm/resume/blob/main/photo-priyam.png" width="600">
+
 ## Project
 
 | Title | URL | Technology |
