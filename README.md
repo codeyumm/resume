@@ -7,7 +7,7 @@ Simple resume with markdown
 
 Currently, I am pursuing Web Development course at Humber College. I am new to Canada still adjusting to the new country. I like coding although sometimes it gives me headache. Apart from that, I like to click pictures and listening to music.
 
-![Photo of Priyam](resume/photo-priyam.png "Photo of Priyam")
+![Photo of Priyam](/photo-priyam.png "Photo of Priyam")
 
 ## Project
 
@@ -15,5 +15,16 @@ Currently, I am pursuing Web Development course at Humber College. I am new to C
 | ----- | --- | ---------- |
 | I don't know what to eat | heyhello.com | html, css, js |
 | Fake project | hey-hello.com | js |
+
+## Education
+
+- Batchelors in Computer Science
+- Graduate certificate in Web Development
+
+## Contact me
+
+- [Linkedin](https://www.linkedin.com/in/priyam-desai-792513290/)
+- [Discord](https://www.discord.com/priyam06)
+- [Instagram](https://www.instagram.com/pri__yum/)
 
 
