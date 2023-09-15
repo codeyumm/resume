@@ -13,8 +13,8 @@ Currently, I am pursuing Web Development course at Humber College. I am new to C
 
 | Title | URL | Technology |
 | ----- | --- | ---------- |
-| I don't know what to eat | heyhello.com | html, css, js |
-| Fake project | hey-hello.com | js |
+| I don't know what to eat | (heyhello.com) | html, css, js |
+| Fake project | (hey-hello.com) | js |
 
 ## Education
 
